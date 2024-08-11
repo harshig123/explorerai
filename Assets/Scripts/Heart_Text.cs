@@ -10,12 +10,12 @@ public class Heart_Text : MonoBehaviour
     public int heartrateInput;
 
     private TextMeshProUGUI heartRateTMP;
-    //private TextMeshPro heart;
-    private Text HR;
+    private TextMeshPro heart;
+    //private Text HR;
     private float timer;
 
     // Particle photon cloud URL
-    private const string ParticleApiEndpoint = "https://api.particle.io/v1/devices/0a10aced202194944a054140/heart?access_token=1fee683fd1abfacd865340fb0e67fa9f1b611f87";
+    private const string ParticleApiEndpoint = "https://api.particle.io/v1/devices/0a10aced202194944a054140/heart?access_token=1579de344d07142d920b9b07f21c7abdbc3d2491";
 
     // Number of requests to send per second
     private const int frequency = 10;
@@ -25,8 +25,8 @@ public class Heart_Text : MonoBehaviour
         timer = 0;
         heartrateInput = 74;
         heartRateTMP = GetComponent<TextMeshProUGUI>();
-        //heart = GetComponent<TextMeshPro>();
-        HR = GetComponent<Text>();
+        heart = GetComponent<TextMeshPro>();
+        //HR = GetComponent<Text>();
         StartCoroutine(WaitForRequest());
     }
 

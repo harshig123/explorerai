@@ -28,16 +28,6 @@
         "com.microsoft.mixedreality.toolkit.foundation": "2.8.3"
       }
     },
-    "com.microsoft.mixedreality.toolkit.figmabridge": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.figmabridge-0.1.1.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {
-        "com.microsoft.mixedreality.toolkit.foundation": "2.7.0",
-        "com.unity.nuget.newtonsoft-json": "2.0.0",
-        "com.unity.textmeshpro": "2.1.4"
-      }
-    },
     "com.microsoft.mixedreality.toolkit.foundation": {
       "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz",
       "depth": 0,
@@ -45,24 +35,6 @@
       "dependencies": {
         "com.microsoft.mixedreality.toolkit.standardassets": "2.8.3"
       }
-    },
-    "com.microsoft.mixedreality.toolkit.gpustats": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.gpustats-1.0.3.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {}
-    },
-    "com.microsoft.mixedreality.toolkit.micstream": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.micstream-1.0.0.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {}
-    },
-    "com.microsoft.mixedreality.toolkit.planefinding": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.planefinding-1.0.0.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {}
     },
     "com.microsoft.mixedreality.toolkit.standardassets": {
       "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz",
@@ -89,7 +61,7 @@
       }
     },
     "com.unity.collab-proxy": {
-      "version": "2.4.3",
+      "version": "2.4.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -160,13 +132,6 @@
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.nuget.newtonsoft-json": {
-      "version": "3.2.1",
-      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -296,7 +261,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.openxr": {
-      "version": "1.11.0",
+      "version": "1.12.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {

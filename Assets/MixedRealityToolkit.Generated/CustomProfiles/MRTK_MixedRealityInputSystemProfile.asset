@@ -108,12 +108,12 @@ MonoBehaviour:
   focusQueryBufferSize: 128
   shouldUseGraphicsRaycast: 1
   focusIndividualCompoundCollider: 0
-  inputActionsProfile: {fileID: 11400000, guid: e7caf82fc48d02e42a30530ea3662f7f, type: 2}
-  inputActionRulesProfile: {fileID: 11400000, guid: d953d7ec6a809f94d8307c59eb6dae06, type: 2}
-  pointerProfile: {fileID: 11400000, guid: e5f32510e474ed84ab9405ee30bbf57a, type: 2}
-  gesturesProfile: {fileID: 11400000, guid: 3360bf50b97eb034791000d498660fcf, type: 2}
-  speechCommandsProfile: {fileID: 11400000, guid: 293d56f46dbe4bc49a95d75e5f8eff87, type: 2}
+  inputActionsProfile: {fileID: 11400000, guid: e0c716b0c9ab17b4abf15f8dac2554fb, type: 2}
+  inputActionRulesProfile: {fileID: 11400000, guid: 72d5ac1b6e414ad418186d7896413842, type: 2}
+  pointerProfile: {fileID: 11400000, guid: d93bb14936f01f34d845a97e33202d47, type: 2}
+  gesturesProfile: {fileID: 11400000, guid: 299cd75c84668ae4ba6d297693b8e2ec, type: 2}
+  speechCommandsProfile: {fileID: 11400000, guid: efd5fdb18d903974c89d0df01c2391be, type: 2}
   enableControllerMapping: 1
   controllerMappingProfile: {fileID: 11400000, guid: 39ded1fd0711a0c448413d0e1ec4f7f3, type: 2}
   controllerVisualizationProfile: {fileID: 11400000, guid: 345c06fdf3732db46b96299bd3cba653, type: 2}
-  handTrackingProfile: {fileID: 11400000, guid: 1b27ac957c8313048a9229427a059d26, type: 2}
+  handTrackingProfile: {fileID: 11400000, guid: 9524ee0221945dc499bed132a8496ba0, type: 2}

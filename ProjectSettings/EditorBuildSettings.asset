@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/MedicalMonitoring.unity
+    guid: 6f9b0b20aa877124ab11ee7cf508fa3c
   m_configObjects:
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 071ae3ded320f91418e9a30871b78b86, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3460b228e12e4f24d92765fa873c7152, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 30dad53de14d30f46823965e208f1c69, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 565e19f6cac2c3947924dea1b3627383, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4fadd2b9069247b42aa2ccb846395ee9, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 23ab2acc0494fae489451558662532ca, type: 2}
